@@ -1,5 +1,0 @@
-AccountName:naman
-AccountNo :5487
-Amount:10000
-AccountType:CURRENT
-Rate of Interest :10
